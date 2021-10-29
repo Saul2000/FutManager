@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FutManager/static/css/main.b7822246.chunk.css",
+    "main.js": "/FutManager/static/js/main.2683c4b4.chunk.js",
+    "main.js.map": "/FutManager/static/js/main.2683c4b4.chunk.js.map",
+    "runtime-main.js": "/FutManager/static/js/runtime-main.454f8a6d.js",
+    "runtime-main.js.map": "/FutManager/static/js/runtime-main.454f8a6d.js.map",
+    "static/js/2.78d41aa7.chunk.js": "/FutManager/static/js/2.78d41aa7.chunk.js",
+    "static/js/2.78d41aa7.chunk.js.map": "/FutManager/static/js/2.78d41aa7.chunk.js.map",
+    "index.html": "/FutManager/index.html",
+    "static/css/main.b7822246.chunk.css.map": "/FutManager/static/css/main.b7822246.chunk.css.map",
+    "static/js/2.78d41aa7.chunk.js.LICENSE.txt": "/FutManager/static/js/2.78d41aa7.chunk.js.LICENSE.txt",
+    "static/media/court.fc358517.svg": "/FutManager/static/media/court.fc358517.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.454f8a6d.js",
+    "static/js/2.78d41aa7.chunk.js",
+    "static/css/main.b7822246.chunk.css",
+    "static/js/main.2683c4b4.chunk.js"
+  ]
+}
